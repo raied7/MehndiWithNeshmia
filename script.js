@@ -1,7 +1,7 @@
 // Mehndi with Neshmia — minimal interactivity
 
 // Replace with the artist's real email before going live.
-const INQUIRY_EMAIL = "hello@example.com";
+const INQUIRY_EMAIL = "neshmiamalik@@gmail.com";
 
 document.addEventListener("DOMContentLoaded", () => {
   // Footer year
